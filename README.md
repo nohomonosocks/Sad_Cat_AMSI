@@ -6,3 +6,4 @@ the log file should have
 
 # and your cpu usage should look like this
 ![Screenshot 2025-03-29 220549](https://github.com/user-attachments/assets/eb4cf9dd-200c-4045-a903-6e39d93b90f7)
+![rofl](https://media.istockphoto.com/id/639765496/vector/laughing-with-tears-and-pointing-emoticon.jpg?s=612x612&w=0&k=20&c=FVVZllgAwRnQkKmgyDLw4zepwzYc0WBCxOB9N4yFdL0=)
